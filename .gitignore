@@ -1,3 +1,6 @@
 *.exe
 .vscode/
 .cph
+B_Books.cpp
+H_La_Vaca_Saturno_Saturnita.cpp
+test.cpp
